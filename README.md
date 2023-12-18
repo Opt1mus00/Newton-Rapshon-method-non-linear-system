@@ -1,6 +1,8 @@
 # Newton-Rapshon-method-non-linear-system
 This is a Matlab implementation of Newton-Rapshon method that resolve an example of non linear system.
 
+{█(e^(x+y)-1=0@e^(x-y)-1=0)┤
+
             %% HOMEWORK H1_3
             clc;
             clear; 
